@@ -1,5 +1,5 @@
 
-<img align="right" width="240px" style="margin-top:-20px" src="https://github.com/joaodev021/joaodev021/blob/main/octocat-1737515168662.png">
+<img align="right" width="220px" style="margin-top:-20px" src="https://github.com/joaodev021/joaodev021/blob/main/octocat-1737515168662.png">
 </br>
 </br>
 </br>

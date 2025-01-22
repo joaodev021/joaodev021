@@ -1,11 +1,5 @@
 
-<img align="right" width="220px" style="margin-top:-20px" src="https://github.com/joaodev021/joaodev021/blob/main/octocat-1737515168662.png">
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
 
  
  <h1 align="left">Hello, devs!!</h1>

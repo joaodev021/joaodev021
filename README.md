@@ -7,10 +7,11 @@
 </br>
 </br>
 
-<div dsplay="inline-block"></div>
+<div dsplay="inline-block">
 
  
  <h1 align="left">Hello, devs!!</h1>
+ </div>
  <br>
 
 

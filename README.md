@@ -36,10 +36,6 @@ Adoro aprender, enfrentar desafios e transformar códigos em soluções incríve
 ![](https://github-readme-stats.vercel.app/api?username=joaodev021&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodev021&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ##
-  
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/joaofelipe021) ou pelo [Linkedin](https://www.linkedin.com/in/joaofelipegalv%C3%A3o021/). Eu demoro às vezes para responder, mas sou legal, prometo 🙃.
-
-##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -48,6 +44,8 @@ Adoro aprender, enfrentar desafios e transformar códigos em soluções incríve
 </picture>
 
 ##
+
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/joaofelipe021) ou pelo [Linkedin](https://www.linkedin.com/in/joaofelipegalv%C3%A3o021/). Eu demoro às vezes para responder, mas sou legal, prometo 🙃.
 
 <a href="https://www.instagram.com/joaofelipe021" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/joaofelipegalvão021" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />

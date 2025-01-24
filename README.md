@@ -4,18 +4,14 @@
 
 ### 📚 Sobre mim:
 <p>Meu nome é João Felipe, tenho 27 anos, sou do interior do Rio de Janeiro e apaixonado por tecnologia!<br>
-Adoro aprender, enfrentar desafios e transformar códigos em soluções incríveis! 🚀❤️</p>
+Adoro aprender, enfrentar desafios e transformar códigos em soluções incríveis! 🚀❤️</p><br/>
 
-##
-<br>
-<div display="inline-block">
  <p>🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong></p>
  <p>💻 Sou participante do programa <strong>Oracle Next Education (ONE)</strong></p>
  <p>🚀 Apaixonado por tecnologia e em constante aprendizado</p>
  <p>📈 Sempre em busca de novos desafios</p>
-</div>
-<br>
 
+##
 
 ### 🛠️ Tecnologias e Ferramentas: 
 
@@ -26,14 +22,12 @@ Adoro aprender, enfrentar desafios e transformar códigos em soluções incríve
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" title = "JAVA"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" title = "C"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40" title = "NEOVIM"/></code>
-<br>
-
+##
 ### 📊 Estatísticas do GitHub:
-  
-  <a href="https://github.com/joaodev021">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodev021&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaodev021&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
+
+![](https://github-readme-stats.vercel.app/api?username=joaodev021&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodev021&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+##
   
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/joaofelipe021) ou pelo [Linkedin](https://www.linkedin.com/in/joaofelipegalv%C3%A3o021/). Eu demoro às vezes para responder, mas sou legal, prometo 🙃.
 

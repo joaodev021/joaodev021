@@ -2,7 +2,7 @@
  <h1 align="left">👋 Olá, seja bem-vindo(a)</h1>
  
 
-### 📚 Sobre mim:
+### 🧑🏻‍💻 Sobre mim:
 <p>Meu nome é João Felipe, tenho 27 anos, sou do interior do Rio de Janeiro e apaixonado por tecnologia!<br>
 Adoro aprender, enfrentar desafios e transformar códigos em soluções incríveis! 🚀❤️</p><br/>
 

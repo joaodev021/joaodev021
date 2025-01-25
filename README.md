@@ -52,8 +52,8 @@ Adoro aprender, enfrentar desafios e transformar códigos em soluções incríve
 ##
 ### 📊 Estatísticas do GitHub:
 
-![](https://github-readme-stats.vercel.app/api?username=joaodev021&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodev021&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=joaofelipegalvao&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipegalvao&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ##
 
 <picture>
